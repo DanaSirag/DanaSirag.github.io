@@ -2,11 +2,11 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
     "text": "Chart 2:Real GDP Per Capita",
-    "subtitle": ["Current International USD, PPP", "Source: World Bank"], "color":"#C4C9CF"
+    "subtitle": ["Current International USD, PPP", "Source: World Bank"], "color": "black"
   },
   "width": 400,
   "height": 300,
-  "background":"#12273F",
+  "background":"null",
   "data": {
     "url": "https://raw.githubusercontent.com/EconomicsObservatory/courses/main/1/s1_example_data/chart2_GDP_pc_6_countries.csv"
   },
